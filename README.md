@@ -1,5 +1,5 @@
-dentistasholanda.github.io
+# xbot-front.github.io
 
-Pure Vanilla JS EcmaScript6 front-end for [dentistasholanda.com](https://dentistasholanda.com)
+Pure Vanilla JS EcmaScript6 front-end for [xbot.dev](https://xbot.dev)
 
-![dentistasholanda_usage](./static/img/dentistasholanda_usage.jpg)
+![xbot_usage](./static/img/xbot_usage.jpg)
